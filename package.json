@@ -1,0 +1,33 @@
+{
+  "name": "grunt-mandrill-template",
+  "version": "0.0.1",
+  "description": "Grunt Plugin to publish email templates using mandrill",
+  "main": "Gruntfile.js",
+  "licenses": [
+    {
+      "type": "Apache",
+      "url": "https://github.com/h0lyalg0rithm/grunt-mandrill/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/h0lyalg0rithm/grunt-mandrill.git"
+  },
+  "author": "Michael Plasmeier",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/theplaz/grunt-mandrill-template/issues"
+  },
+  "homepage": "https://github.com/theplaz/grunt-mandrill-template",
+  "dependencies": {
+    "mandrill-api": "~1.0.40",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "mandrill-api": "~1.0.40"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
