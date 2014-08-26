@@ -21,11 +21,11 @@
   "homepage": "https://github.com/theplaz/grunt-mandrill-template",
   "dependencies": {
     "mandrill-api": "~1.0.40",
-    "lodash": "^2.4.1"
+    "lodash": "^2.4.1",
+    "cheerio": "~0.17.0"
   },
   "devDependencies": {
-    "grunt": "~0.4.2",
-    "mandrill-api": "~1.0.40"
+    "grunt": "~0.4.2"
   },
   "keywords": [
     "gruntplugin"

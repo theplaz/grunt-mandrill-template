@@ -50,7 +50,7 @@ The 'from' display name.
 #### subject
 Type: `String`
 
-The subject of your email
+The subject of your email.  Leave blank to load from the HTML <title> tag.
 
 #### body
 Type: `String`
