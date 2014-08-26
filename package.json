@@ -6,12 +6,12 @@
   "licenses": [
     {
       "type": "Apache",
-      "url": "https://github.com/h0lyalg0rithm/grunt-mandrill/blob/master/LICENSE"
+      "url": "https://github.com/theplaz/grunt-mandrill-tempate/blob/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/h0lyalg0rithm/grunt-mandrill.git"
+    "url": "git://github.com/theplaz/grunt-mandrill-template.git"
   },
   "author": "Michael Plasmeier",
   "license": "Apache",
